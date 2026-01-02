@@ -1,2 +1,0 @@
-# jans.io
-artist blog

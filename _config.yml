@@ -27,7 +27,7 @@ url: "https://thekit3.github.io" # the base hostname & protocol for your site, e
 telegram: "https://t.me/imnotasleep" 
 
 # Build settings
-theme: minima
+theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 
