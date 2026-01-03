@@ -18,18 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: artist
+title: bimba shoes enjoyer
 email: verajans55555@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  это надо думать...
+  Янс Вера Районирована
+  10.04.2004
+  Скульптор, художник
+  Главная тема творчества: Бог и Человек 
+  Образование СПБГХПА имени Штиглица 2021-...
 baseurl: "/jans.io" # the subpath of your site, e.g. /blog
 url: "https://thekit3.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-telegram: "https://t.me/imnotasleep" 
 
 # Build settings
-theme: jekyll-theme-so-simple
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+remote_theme: raoenhui
 
 # Exclude from processing.
 # The following items will not be processed, by default.
