@@ -1,11 +1,9 @@
 title: Vera Jans
 email: verajans55555@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-    Янс Вера Районирована
-    Скульптор, художник
+description: Янс Вера Районирована - cкульптор, художник
 baseurl: "/jans.io" # the subpath of your site, e.g. /blog
 url: "https://thekit3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-theme: minima
+
 plugins:
   - jekyll-feed
 collections:
