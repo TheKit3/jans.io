@@ -8,3 +8,10 @@ url: "https://thekit3.github.io" # the base hostname & protocol for your site, e
 theme: minima
 plugins:
   - jekyll-feed
+collections:
+  sculpture:
+    output: true
+  painting:
+    output: true
+  projects:
+    output: true
