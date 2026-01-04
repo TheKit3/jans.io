@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Vyaz';
-  src: url('../fonts/triodion.ttf') format('truetype');
+  src: url('{{ "/assets/fonts/triodion.ttf" | relative_url }}') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
